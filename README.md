@@ -1,1 +1,1 @@
-BioClub Lab [Wiki Pages](https://github.com/BioClub/lab/wiki)
+BioClub [Laboratory Wiki Pages](https://github.com/BioClub/lab/wiki)

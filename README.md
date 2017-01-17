@@ -1,2 +1,4 @@
 # wiki
-BioClub Wiki Pages
+BioClub Lab Wiki Pages
+
+Click 'Wiki' link above.

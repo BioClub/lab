@@ -52,6 +52,7 @@ Or if you’re impatient like us, insert the flask into cold water. Just be care
 12. Make sure to write the date and where you collected your samples from on the petri dish.
 
 13. If you’re collecting samples from different places write that down too.
+![img_2535](https://cloud.githubusercontent.com/assets/10128812/23890744/7576f11e-08d6-11e7-92fe-1fc1b4e34141.JPG)
 
 14. Seal the dishes with parafilm. This film will prevent contaminants from entering and preserve the moisture in the petri dish.  
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/33416812775/in/album-72157677327943603/" title="week07-14"><img src="https://c1.staticflickr.com/4/3791/33416812775_aab89fa373.jpg" width="425" height="319" alt="week07-14"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -7,25 +7,25 @@ Necessary items | 品名 | Where to buy
 ~~Dry yeast~~ (Substitute for yeast extract) ←We should have used **Marmite** or **bouillon** which actually has yeast extract, whoops | 酵母エキス (マーマイト、ブイヨン) | Supermarket 
 Protein powder (Substitute for Peptone) | プロテイン | Supermarket
 Salt (NaCl) | 塩 | Supermarket
-Agar powder | 寒天 |Supermarket, [Monotaro](https://www.monotaro.com/p/1171/5822/?gclid=CP2_hpOl1dICFQwjvQodwMAL8A&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-11715822&ef_id=WJ1DKQAAAD8txiTV:20170314054433:s)
+Agar powder | 寒天 |Supermarket, [Monotaro](https://www.monotaro.com/p/1171/5822/?gclid=CP2_hpOl1dICFQwjvQodwMAL8A&utm_medium=cpc&utm_source=Adwords&cm_mmc=Adwords-_-cpc-_-PLA-_-11715822&ef_id=WJ1DKQAAAD8txiTV:20170314054433:s)(事業者向け)
 Demi water | 精製水・純水 | Drugstores, [Yodobashi Camera](http://www.yodobashi.com/%E5%8F%A4%E6%B2%B3%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD-KYK-02-101-%E9%AB%98%E7%B4%94%E5%BA%A6%E7%B2%BE%E8%A3%BD%E6%B0%B4-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-2L/pd/100000001001990277/)
 Alcohol | アルコール |
 Paper towels| ペーパータオル |
 Scale | 秤 | 
-Measuring cylinder | メスシリンダー | [Monotaro](https://www.monotaro.com/p/3279/6014/)
-500ml Flask | 500ml フラスコ | [Tokyu Hands](https://hands.net/goods/2400005018693/)
+Measuring cylinder | メスシリンダー | [Monotaro](https://ihc.monotaro.com/item/C32796014/)
+500ml Flask | 500ml フラスコ | [Tokyu Hands](https://hands.net/goods/2400005018693/), [Monotaro](http://ihc.monotaro.com/item/C03028261/)
 Cups or weighing boats | コップ/秤量皿 |
 Aluminium foil (To prevent contaminants from entering the flask) | アルミホイル | Supermarket
 Microwave | 電子レンジ | 
 Oven mitt or dish cloth | ミトン/ふきん | 
-10 Petri dishes | シャーレ 10個 | [Tokyu Hands](https://hands.net/goods/2400005157873/), [Monotaro](https://www.monotaro.com/p/3468/0597/?t.q=%96%C5%8B%DB%83V%83%83%81%5B%83%8C)
-Parafilm | パラフィルム | [Monotaro](https://www.monotaro.com/p/0286/8817/?t.q=%83p%83%89%83t%83B%83%8B%83%80)
+10 Petri dishes (If they are not sterilised wipe with alcohol) | シャーレ 10個 | [Tokyu Hands](https://hands.net/goods/2400005157873/), [Amazon.jp](https://www.amazon.co.jp/%E3%83%A2%E3%83%8E%E3%82%BF%E3%83%AD%E3%82%A6-%E6%BB%85%E8%8F%8C%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9D%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AC%EF%BC%88PS%E8%A3%BD%EF%BC%89-90%C3%9715mm-PS-90/dp/B0058MUT3I), [Monotaro](https://ihc.monotaro.com/item/C34680597/)
+Parafilm | パラフィルム | [Amazon.jp](https://www.amazon.co.jp/%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%BB%E3%82%A8%E3%82%B9-PM-996-%E3%83%91%E3%83%A9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A04%E3%82%A4%E3%83%B3%E3%83%81-%E9%95%B7%E3%81%95125%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88/dp/B004VQP6CQ), [Monotaro](http://ihc.monotaro.com/item/C02868817/)
 Incubator | インキュベーター | 
 
 NOTE: All ingredients in this list may be purchasable from the supermarket but they are necessary reagents for growing bacteria / mold. They’re not meant for humans, so to prevent contamination **don’t mix it with your own food**.  
 Also, don't bring food into FabCafe MTRL's bio lab.
 
-1. Wash the flask with dish washing liquid and rinse very very well with water. 
+1. Wash the flask with a [brush](http://ihc.monotaro.com/c/009829/) and dish washing liquid and rinse very very well with water. 
 2. Wash your hands and clean the table with alcohol. Don’t forget to tie back long hair!
 3. Prepare the reagents. We referred to [this recipe](https://biohackacademy.github.io/bha4/cultivation-media/nutrient-agar/) by BioHack Academy.  
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/33376376736/in/album-72157677327943603/" title="week07-02"><img src="https://c1.staticflickr.com/3/2893/33376376736_8e0c6b562a.jpg" width="425" height="319" alt="week07-02"></a> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/33033885710/in/album-72157677327943603/" title="week07-03"><img src="https://c1.staticflickr.com/1/721/33033885710_094478c6c1.jpg" width="425" height="319" alt="week07-03"></a>  

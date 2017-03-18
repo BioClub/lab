@@ -1,6 +1,6 @@
 #### March 19, 2017
 
-# How to Isolate Chloroplasts from Spinach　ホウレン草から葉緑体を単離する方法
+# How to Isolate Chloroplasts from Spinach (ほうれん草から葉緑体を単離する方法)
 
 [Chloroplasts](https://en.wikipedia.org/wiki/Chloroplast) are *a specialised compartment in plant cells and algae where [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis) takes place; originally derived from photosynthetic bacteria called [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria)* [1]
 
@@ -8,7 +8,7 @@ This protocol is based on the instructions by [BioHack Academy](http://biohackac
 
 Necessary items | 必要なもの | Where to buy
 --- | --- | ---
-Fresh Spinach | 新鮮なホウレン草 | Supermarket
+Fresh Spinach | 新鮮なほうれん草 | Supermarket
 Coffee filter | コーヒーフィルター | 100 yen store
 10 x 1.5 mL centrifuge tubes | 1.5 mL マイクロチューブ 10本 | [Monotaro](http://ihc.monotaro.com/item/C40467831/)
 Ice pack | 保冷剤 |
@@ -33,12 +33,12 @@ NOTE: Do not bring food into FabCafe MTRL's bio lab.
 
 1. Wash your hands and don’t forget to tie back long hair!
 2. Wash glassware with dish washing liquid and rinse well.
-3. Create **100 mL of 0.5 M [sucrose](https://pubchem.ncbi.nlm.nih.gov/compound/sucrose#section=Top)** in a 200ml flask [2].
-```
-End molarity (moles/L) * end volume (L) * molecular weight (g/mole) = necessary grams  
-0.5 moles/L * 0.1L * 342.2965 g/mole = 17.114825
-```
-Measure **17g** of granulated sugar and pour in demi water until the solution measures **100ml**. Cover the flask with aluminium foil, swill it until the sugar melts, and store it on ice.
+3. Create **100 mL of 0.5 M [sucrose](https://pubchem.ncbi.nlm.nih.gov/compound/sucrose#section=Top)**[2].
+   ```  
+   End molarity (moles/L) * end volume (L) * molecular weight (g/mole) = necessary grams  
+   0.5 moles/L * 0.1L * 342.2965 g/mole = 17.114825  
+   ```
+   Measure **17 grams** of granulated sugar, pour it in the 200ml flask and pour in demi water until the solution measures **100ml**. Cover the flask with aluminium foil, swill it until the sugar melts, and store it on ice.
 4. Wash spinach leaves with water and measure **10 grams**. With scissors, cut the leaves into small pieces and cut out the veins.
 5. Grind the leaves in the blender.
 6. Add **5 ml** of 0.5 M sucrose to the solution and mix.

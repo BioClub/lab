@@ -59,7 +59,7 @@ NOTE: Do not bring food into FabCafe MTRL's bio lab.
 9. Save **0.5 ml** of the filtrate in a tube for comparison later on (Tube No.0).
 10. Transfer two times **1.5 ml** to two centrifuge tubes. Make sure they’re balanced.  
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/33157021300/in/album-72157677327943603/" title="week07-13"><img src="https://c1.staticflickr.com/4/3956/33157021300_939e2e5414.jpg" width="425" height="319" alt="week07-13"></a>  
-11. Centrifuge ~~at low speed (50x - 200x g)~~ for **10 minutes** to g1et rid of cell debris (white pellet)  
+11. Centrifuge ~~at low speed (50x - 200x g)~~ for **10 minutes** to get rid of cell debris (white pellet)  
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/32726132633/in/album-72157677327943603/" title="week07-14"><img src="https://c1.staticflickr.com/3/2828/32726132633_39510716c6.jpg" width="425" height="319" alt="week07-14"></a> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/32697109364/in/album-72157677327943603/" title="week07-15"><img src="https://c1.staticflickr.com/3/2816/32697109364_cf0c8d8077.jpg" width="425" height="319" alt="week07-15"></a>  
 12. Transfer the supernatant to two fresh centrifuge tubes. Save 0.5 mL of each tube for later examination (Tube No.1-1 and 2-1).
 13. Centrifuge ~~at high speed (1000x g)~~ for **10 minutes** to pellet the chloroplasts.

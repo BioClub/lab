@@ -19,6 +19,7 @@ Aluminium foil (To prevent contaminants from entering the flask) | アルミホ�
 Microwave | 電子レンジ | 
 Oven mitt or dish cloth | ミトン/ふきん | 
 10 Petri dishes (If they are not sterilised wipe with alcohol) | シャーレ 10個 | [Tokyu Hands](https://hands.net/goods/2400005157873/), [Amazon.jp](https://www.amazon.co.jp/%E3%83%A2%E3%83%8E%E3%82%BF%E3%83%AD%E3%82%A6-%E6%BB%85%E8%8F%8C%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9D%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AC%EF%BC%88PS%E8%A3%BD%EF%BC%89-90%C3%9715mm-PS-90/dp/B0058MUT3I), [Monotaro](https://ihc.monotaro.com/item/C34680597/)
+Cotton swabs | 綿棒 | 
 Parafilm | パラフィルム | [Amazon.jp](https://www.amazon.co.jp/%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%BB%E3%82%A8%E3%82%B9-PM-996-%E3%83%91%E3%83%A9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A04%E3%82%A4%E3%83%B3%E3%83%81-%E9%95%B7%E3%81%95125%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88/dp/B004VQP6CQ), [Monotaro](http://ihc.monotaro.com/item/C02868817/)
 Incubator | インキュベーター | 
 
@@ -72,3 +73,4 @@ Unused dishes sealed with parafilm can be preserved in the fridge for about a we
 
 * [How to use a pressure cooker as an autoclave](http://bio.academany.org/labs/fablabkamakura/students/yumi/weeks/w16.html#autoclaving)
 
+Return to [BHA4 Wiki](https://github.com/BioClub/lab/wiki/BHA4)

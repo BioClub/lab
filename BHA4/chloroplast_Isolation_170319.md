@@ -71,6 +71,8 @@ NOTE: Do not bring food into FabCafe MTRL's bio lab.
 17. Examine the samples under the microscope (or measure the absorbance at OD650). Count the number of Chloroplasts per mL.  
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/33156983320/in/album-72157677327943603/" title="week07-18"><img src="https://c1.staticflickr.com/3/2907/33156983320_cc68ed4995.jpg" width="425" height="319" alt="week07-18"></a> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130922490@N08/32726431403/in/dateposted/" title="week07-20"><img src="https://c1.staticflickr.com/4/3682/32726431403_42cc7cacb8.jpg" width="425" height="319" alt="week07-20"></a>  
 
+Dispose the acetone solution by absorbing it with paper towels and sealing it in a bag.
+
 ### References
 1. Nick Lane (2015) [The Vital Question](https://www.amazon.co.jp/Vital-Question-Why-Life-Way/dp/1781250367)
 2. [How to make solutions and calculate molarity ](http://www.vcu.edu/csbc/bbsi/inst/courses/courses-2007/intro/molarity.pdf)

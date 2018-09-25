@@ -1,1 +1,1 @@
-BioClub [Lab](https://lab.bioclub.org)
+BioClub [Lab](https://bioclub.github.io/lab/)
